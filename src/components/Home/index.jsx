@@ -28,21 +28,21 @@ const Corusel = () =>{
                 <Card>
                     <Card.Item>
                         <h2 className='sub-title'>Professional Work</h2>
-                        <p className='description'>While building out a new website you literally no idea of where to start.</p>
+                        <p className='description text-centr'>While building out a new website you literally no idea of where to start.</p>
                         <a href='#'>Read More</a>
                     </Card.Item>
                 </Card>
                 <Card>
                     <Card.Item>
                         <h2 className='sub-title'>Professional Work</h2>
-                        <p className='description'>While building out a new website you literally no idea of where to start.</p>
+                        <p className='description text-centr'>While building out a new website you literally no idea of where to start.</p>
                         <a href='#'>Read More</a>
                     </Card.Item>
                 </Card> 
                 <Card>
                     <Card.Item>
                         <h2 className='sub-title'>Professional Work</h2>
-                        <p className='description'>While building out a new website you literally no idea of where to start.</p>
+                        <p className='description text-centr'>While building out a new website you literally no idea of where to start.</p>
                         <a href='#'>Read More</a>
                     </Card.Item>
                 </Card>
