@@ -138,7 +138,7 @@ const Testimonial = () => {
                     </p>
                 </Description.Title>
                 <Description.Card>
-                  <WrapCar>
+                  <WrapCar >
                       <Carousel keyboardNavigation={true} disableButtonsControls={true} ref={ref} mouseTracking infinite={true} responsive={width} controlsStrategy="alternate" items={items}/>
                   </WrapCar>
                 </Description.Card>

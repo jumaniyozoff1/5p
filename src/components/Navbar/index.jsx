@@ -17,7 +17,7 @@ const Navbar = () => {
             <LinkSection>
             {
               navbar.map(({id,title,path}) => {
-                return(
+                return( 
                   <Navlink key={id} to={path}>{title}</Navlink>
                   )
                 })
